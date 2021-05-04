@@ -1,10 +1,16 @@
 # Project-Error-Correcting-Encoder-Decoder
+This is my implementetion of Jet Brains Error-Correcting-Encoder-Decoder project stage 5/5.
 
 import javax.xml.transform.sax.SAXSource;
+
 import java.io.*;
+
 import java.util.Arrays;
+
 import java.util.Random;
+
 import java.util.Scanner;
+
 import java.util.StringTokenizer;
 
 public class Main {
